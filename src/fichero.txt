@@ -1,0 +1,6 @@
+Esta es una línea
+esta es la segunda línea
+- Aquí va la tercera.
+
+Encima de esta había una línea vacía
+FIN.
